@@ -1,22 +1,4 @@
----
-date: 2021-01-09 05:20:35 +0300
-draft: false
-title: 🐾 Animal Shelter Operations Analytics
-subtitle: This project analyzes animal shelter operations data to uncover actionable insights related to intake patterns, outcomes, live-release performance, length of stay (LOS), and repeat intakes.
-tags: [PowerBI, ChatGpt]
-image: '/images/animal shelter.png'
-demo_url: 'https://app.powerbi.com/view?r=eyJrIjoiZDVjNTExZWItMWU4OS00Y2JiLWIyMzAtOTBlM2ZkZGVkZDNjIiwidCI6IjcyODYxZmY5LTM0ZmMtNGUyYy1iNjgzLTAwZTQxNmY2NjBmYyJ9'
-weight: 98
-seo:
-  page_description: 
-  canonical_url: 
-  featured_image: 
-  author_twitter_handle: 
-  open_graph_type:
-  no_index: false
----
-# 🐾 Animal Shelter Operations Analytics  
-### Power BI Dashboard | ZoomCharts Challenge
+
 
 An end-to-end analytics project built using **Power BI** and **ZoomCharts**, focused on understanding animal shelter operations and generating **data-driven insights** to improve save rates, reduce length of stay (LOS), and support operational decision-making.
 
