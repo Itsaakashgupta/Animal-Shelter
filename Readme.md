@@ -1,4 +1,4 @@
-
+![Dashboard Image](animal_shelter.png)
 
 An end-to-end analytics project built using **Power BI** and **ZoomCharts**, focused on understanding animal shelter operations and generating **data-driven insights** to improve save rates, reduce length of stay (LOS), and support operational decision-making.
 
